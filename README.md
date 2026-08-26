@@ -4,7 +4,7 @@ First and simple program with pygame:)
 
 https://github.com/user-attachments/assets/0ef73c7b-b76b-4c90-be9d-eaa8d7d248fe
 
-A Space-Invaders-style game built while working through the "Alien Invasion" chapters of *Python Crash Course*, plus a few smaller pygame experiments kept in the same folder.
+A Space-Invaders-style game — my first program with Pygame — plus a few smaller pygame experiments kept in the same folder.
 
 ## What it does
 
